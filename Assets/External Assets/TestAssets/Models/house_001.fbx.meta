@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: e538fdbe39249764dbd2225cceb3b35d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -1625178896256399017
+    second: house_chimney_001|barracks_bottom_001|Take 001|BaseLayer
+  - first:
+      74: 7432201203803311325
+    second: house_chimney_001|barracks_bottom_001|Take 001|BaseLayer.001
+  - first:
+      74: -7397147578066862050
+    second: house_chimney_001|barracks_bottom_001|Take 001|BaseLayer.002
+  - first:
+      74: -5439476608258509729
+    second: house_chimney_001|barracks_bottom_001|Take 001|BaseLayer.003
+  - first:
+      74: -9153477396365312744
+    second: house_chimney_001|barracks_top_001|Take 001|BaseLayer
+  - first:
+      74: -1538738645198841198
+    second: house_chimney_001|barracks_top_001|Take 001|BaseLayer.001
+  - first:
+      74: 3153972492840586036
+    second: house_chimney_001|barracks_top_001|Take 001|BaseLayer.002
+  - first:
+      74: -2147407080374348102
+    second: house_chimney_001|barracks_top_001|Take 001|BaseLayer.003
+  - first:
+      74: -5072534516451386674
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_front_002.001|Take
+      001|B
+  - first:
+      74: 6203044738978604108
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_front_002|Take
+      001|BaseL
+  - first:
+      74: 1980003961919965482
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_002.001|Take
+      001|B
+  - first:
+      74: 7515548568143237714
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_002|Take
+      001|BaseL
+  - first:
+      74: 1923861257210752545
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_004.001|Take
+      001|B
+  - first:
+      74: 1362113055648565805
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_004|Take
+      001|BaseL
+  - first:
+      74: 8173540317089638742
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors.002|Take
+      001|BaseLay
+  - first:
+      74: 7841284659371521561
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors001.002|Take
+      001|Base
+  - first:
+      74: -3056331664472201813
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors001|Take
+      001|BaseLaye
+  - first:
+      74: -1902906337163567442
+    second: house_chimney_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors|Take 001|BaseLayer|S
+  - first:
+      74: -8400022016363630253
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_front_002.001|Take
+      0
+  - first:
+      74: -6348736999716876702
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_front_002|Take
+      001|B
+  - first:
+      74: 2549145549773278435
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_002.001|Take
+      0
+  - first:
+      74: 1060542782191699232
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_002|Take
+      001|B
+  - first:
+      74: -7399794530688856410
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_004.001|Take
+      0
+  - first:
+      74: -4105486600744755628
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_004|Take
+      001|B
+  - first:
+      74: 2683102878296666086
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors.002|Take
+      001|Bas
+  - first:
+      74: -4112444476046583949
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors001.002|Take
+      001|
+  - first:
+      74: 7340428909444303345
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors001|Take
+      001|Base
+  - first:
+      74: 5750637837669009273
+    second: house_chimney_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors|Take
+      001|BaseLay
+  - first:
+      74: -8633792471005037531
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_front_002.001|Take
+      0
+  - first:
+      74: -8941171020514416300
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_front_002|Take
+      001|B
+  - first:
+      74: -1178310708365992089
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_002.001|Take
+      0
+  - first:
+      74: -640596133587492211
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_002|Take
+      001|B
+  - first:
+      74: 2641527832197072475
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_004.001|Take
+      0
+  - first:
+      74: -1949969979481276354
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_004|Take
+      001|B
+  - first:
+      74: 6844696375123359982
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors.002|Take
+      001|Bas
+  - first:
+      74: 1348356814177405504
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors001.002|Take
+      001|
+  - first:
+      74: 5408596946465098840
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors001|Take
+      001|Base
+  - first:
+      74: 2276932640042379747
+    second: house_chimney_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors|Take
+      001|BaseLay
+  - first:
+      74: -2466097881561196593
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_front_002.001|Take
+      0
+  - first:
+      74: -6655171089234444546
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_front_002|Take
+      001|B
+  - first:
+      74: 8804824325909346957
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_002.001|Take
+      0
+  - first:
+      74: 2278149938032420560
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_002|Take
+      001|B
+  - first:
+      74: -3990906811941949359
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_004.001|Take
+      0
+  - first:
+      74: -7940212905078078470
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_004|Take
+      001|B
+  - first:
+      74: -516689282381114012
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors.002|Take
+      001|Bas
+  - first:
+      74: -764285932471049741
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors001.002|Take
+      001|
+  - first:
+      74: 3967968846186122901
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors001|Take
+      001|Base
+  - first:
+      74: -663280933167365559
+    second: house_chimney_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors|Take
+      001|BaseLay
+  - first:
+      74: 7664410529702614894
+    second: house_chimney_001|sheriff_chimney_001|Take 001|BaseLayer
+  - first:
+      74: -1480275513961691126
+    second: house_chimney_001|sheriff_chimney_001|Take 001|BaseLayer.001
+  - first:
+      74: -1934816191954053521
+    second: house_chimney_001|sheriff_chimney_001|Take 001|BaseLayer.002
+  - first:
+      74: 2057427115221409267
+    second: house_chimney_001|sheriff_chimney_001|Take 001|BaseLayer.003
+  - first:
+      74: -2062898365123646966
+    second: house_chimney_001|sheriff_chimney_002|Take 001|BaseLayer
+  - first:
+      74: -7448886728734478218
+    second: house_chimney_001|sheriff_chimney_002|Take 001|BaseLayer.001
+  - first:
+      74: 5814203645346378727
+    second: house_chimney_001|sheriff_chimney_002|Take 001|BaseLayer.003
+  - first:
+      74: -8584914547542941905
+    second: house_chimney_001|sheriff_chimney_002|Take 001|BaseLayer.004
+  - first:
+      74: -205261797095114206
+    second: house_anex_001|barracks_bottom_001|Take 001|BaseLayer
+  - first:
+      74: -8325682396698156278
+    second: house_anex_001|barracks_bottom_001|Take 001|BaseLayer.001
+  - first:
+      74: -6836236129989197033
+    second: house_anex_001|barracks_bottom_001|Take 001|BaseLayer.002
+  - first:
+      74: -2565306155321004957
+    second: house_anex_001|barracks_bottom_001|Take 001|BaseLayer.003
+  - first:
+      74: -190472447772796723
+    second: house_anex_001|barracks_top_001|Take 001|BaseLayer
+  - first:
+      74: 448780671158774261
+    second: house_anex_001|barracks_top_001|Take 001|BaseLayer.001
+  - first:
+      74: -5615301571963348193
+    second: house_anex_001|barracks_top_001|Take 001|BaseLayer.002
+  - first:
+      74: -2696557596859309833
+    second: house_anex_001|barracks_top_001|Take 001|BaseLayer.003
+  - first:
+      74: 1949907504331362364
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_front_002.001|Take
+      001|B
+  - first:
+      74: -6547530769320075226
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_front_002|Take
+      001|BaseL
+  - first:
+      74: 8549771077790070008
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_002.001|Take
+      001|B
+  - first:
+      74: -7160496519654478039
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_002|Take
+      001|BaseL
+  - first:
+      74: -1005738681929214697
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_004.001|Take
+      001|B
+  - first:
+      74: -1209990698148776956
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|basemesh_walls_004|Take
+      001|BaseL
+  - first:
+      74: 6557275172359037587
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors.002|Take 001|BaseLay
+  - first:
+      74: 7767022575635744461
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors001.002|Take
+      001|Base
+  - first:
+      74: 520978141818310480
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors001|Take 001|BaseLaye
+  - first:
+      74: -8445953725854428439
+    second: house_anex_001|Saloon_Bot_001|Saloon_Bot_001|Saloon_Doors|Take 001|BaseLayer|S
+  - first:
+      74: 5897304598716017145
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_front_002.001|Take
+      0
+  - first:
+      74: 3176459353794484803
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_front_002|Take
+      001|B
+  - first:
+      74: -4643786250450907108
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_002.001|Take
+      0
+  - first:
+      74: -7269498056446079220
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_002|Take
+      001|B
+  - first:
+      74: -5093122041032545037
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_004.001|Take
+      0
+  - first:
+      74: -6517680784358070493
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|basemesh_walls_004|Take
+      001|B
+  - first:
+      74: -2744744450710631
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors.002|Take
+      001|Bas
+  - first:
+      74: -1631948083527410653
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors001.002|Take
+      001|
+  - first:
+      74: 7352984778736571512
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors001|Take
+      001|Base
+  - first:
+      74: 7620288473415230370
+    second: house_anex_001|Saloon_Doors_001|Saloon_Doors_001|Saloon_Doors|Take 001|BaseLay
+  - first:
+      74: 5779771977919290736
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_front_002.001|Take
+      0
+  - first:
+      74: 6954698689390750262
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_front_002|Take
+      001|B
+  - first:
+      74: 1584632549839285867
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_002.001|Take
+      0
+  - first:
+      74: -5894173885473873769
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_002|Take
+      001|B
+  - first:
+      74: -2557132802283693924
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_004.001|Take
+      0
+  - first:
+      74: -8863487837884555726
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|basemesh_walls_004|Take
+      001|B
+  - first:
+      74: -8484657014166662352
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors.002|Take
+      001|Bas
+  - first:
+      74: -1375922286144554071
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors001.002|Take
+      001|
+  - first:
+      74: -857326492579254578
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors001|Take
+      001|Base
+  - first:
+      74: -5044025721888098084
+    second: house_anex_001|Saloon_Doors_002|Saloon_Doors_002|Saloon_Doors|Take 001|BaseLay
+  - first:
+      74: 8468758129833252692
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_front_002.001|Take
+      0
+  - first:
+      74: 5236759317725510776
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_front_002|Take
+      001|B
+  - first:
+      74: -3504666729541177385
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_002.001|Take
+      0
+  - first:
+      74: 9049983420801661052
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_002|Take
+      001|B
+  - first:
+      74: 5175816354774580420
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_004.001|Take
+      0
+  - first:
+      74: 9046914468685146863
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|basemesh_walls_004|Take
+      001|B
+  - first:
+      74: 8460342522331716441
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors.002|Take
+      001|Bas
+  - first:
+      74: -8340767595839805940
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors001.002|Take
+      001|
+  - first:
+      74: 7183193853540532959
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors001|Take
+      001|Base
+  - first:
+      74: 6697292990107772796
+    second: house_anex_001|Saloon_Floor_001|Saloon_Floor_001|Saloon_Doors|Take 001|BaseLay
+  - first:
+      74: 2406218432264585344
+    second: house_anex_001|sheriff_chimney_001|Take 001|BaseLayer
+  - first:
+      74: -1823954141589556886
+    second: house_anex_001|sheriff_chimney_001|Take 001|BaseLayer.001
+  - first:
+      74: -1115395977301826805
+    second: house_anex_001|sheriff_chimney_001|Take 001|BaseLayer.002
+  - first:
+      74: -2016488638734765387
+    second: house_anex_001|sheriff_chimney_001|Take 001|BaseLayer.003
+  - first:
+      74: 6633375616468921864
+    second: house_anex_001|sheriff_chimney_002|Take 001|BaseLayer
+  - first:
+      74: 4111859371482448989
+    second: house_anex_001|sheriff_chimney_002|Take 001|BaseLayer.001
+  - first:
+      74: -6370649884826205240
+    second: house_anex_001|sheriff_chimney_002|Take 001|BaseLayer.003
+  - first:
+      74: -765150782000985665
+    second: house_anex_001|sheriff_chimney_002|Take 001|BaseLayer.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house_001
+    second: {fileID: 2100000, guid: f76e76156b410a34497926cc949b7cd9, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

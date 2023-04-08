@@ -46,24 +46,31 @@ public class FireWeapon : MonoBehaviour
 
     public bool Shoot()
     {
-        if (isReloading)
-        {
-            return false;
-        }
+        if (isReloading) return false;
+
+        if (isInCoolDown) return true;
+
         if (CurrentBullets == 0)
         {
             Reload();
             return false;
         }
-        if (!isInCoolDown)
-        {
-            var bullet = PoolController.Get(ammunitionPrefab, shootPoint.position, shooter.transform.rotation);
-            bullet.Shoot(shooter, shooter.transform.forward);
-            CurrentBullets--;
-            OnShooting?.Invoke();
-            StartCoroutine(C_BulletCoolingDown());
-        }
+
+        var bullet = PoolController.Get(ammunitionPrefab, shootPoint.position, shooter.transform.rotation);
+        bullet.Shoot(shooter, shooter.transform.forward);
+        CurrentBullets--;
+        OnShooting?.Invoke();
+        StartCoroutine(C_BulletCoolingDown());
+
         return true;
+    }
+
+    private void OnEnable()
+    {
+        StopAllCoroutines();
+        ReloadProgress = 1;
+        isReloading = false;
+        isInCoolDown = false;
     }
 
     public void Reload()
